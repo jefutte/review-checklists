@@ -109,13 +109,19 @@
     "categories": [],
     "waf": [
         {
-            "name": "reliability"
-        },
-        {
-            "name": "Cost"
+            "name": "Security"
         },
         {
             "name": "Operations"
+        },
+        {
+            "name": "operations"
+        },
+        {
+            "name": "performance"
+        },
+        {
+            "name": "reliability"
         },
         {
             "name": "security"
@@ -124,19 +130,13 @@
             "name": "Performance"
         },
         {
+            "name": "cost"
+        },
+        {
             "name": "Reliability"
         },
         {
-            "name": "operations"
-        },
-        {
-            "name": "Security"
-        },
-        {
-            "name": "performance"
-        },
-        {
-            "name": "cost"
+            "name": "Cost"
         }
     ],
     "yesno": [
@@ -173,6 +173,6 @@
         "name": "Azure Openai Service Guide",
         "waf": "all",
         "state": "preview",
-        "timestamp": "October 20, 2024"
+        "timestamp": "April 20, 2025"
     }
 }
